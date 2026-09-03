@@ -68,14 +68,6 @@ A web application for working with advertising campaign statistics, leads, and m
 
 ---
 
-## 📊 GitHub Stats
-
-![Nikita's GitHub stats](https://github-readme-stats.vercel.app/api?username=maminn174\&show_icons=true\&hide_border=true\&hide_title=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maminn174\&layout=compact\&hide_border=true)
-
----
-
 ## 📫 Contact
 
 [![Telegram](https://img.shields.io/badge/Telegram-20232A?style=for-the-badge\&logo=telegram\&logoColor=26A5E4)](https://t.me/nikitatilt)
