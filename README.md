@@ -1,74 +1,76 @@
 # Hi, I'm Nikita 👋
 
-### Frontend Developer
+### FullStack Developer
 
-I build responsive and interactive web interfaces using **React, TypeScript, and JavaScript**.
+I build web applications using **Java, Spring Boot, React, Vue, and TypeScript**.
 
-I have experience with commercial web development, REST API integrations, forms, interactive UI components, and web analytics.
+I have commercial frontend development experience and work with REST APIs, reusable UI components, forms, application logic, and responsive interfaces.
 
-My background in digital marketing helps me understand product goals, user behavior, and the business side of web development.
-
-Currently focused on improving my skills in **React, TypeScript, frontend architecture, testing, and performance optimization**.
+On the backend, I work with **Java, Spring Boot, Spring Data JPA, PostgreSQL, and REST API**, building client-server applications and developing my backend engineering skills.
 
 ---
 
 ## 🛠 Tech Stack
 
+### Backend
+
+`Java` · `Spring Boot` · `Spring MVC` · `Spring Data JPA` · `Hibernate` · `PostgreSQL` · `SQL` · `REST API` · `Maven`
+
 ### Frontend
 
-![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge\&logo=typescript\&logoColor=3178C6)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+`JavaScript` · `TypeScript` · `React` · `Vue 3` · `HTML5` · `CSS3` · `SCSS` · `BEM`
 
-![HTML5](https://img.shields.io/badge/HTML5-20232A?style=for-the-badge\&logo=html5\&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-20232A?style=for-the-badge\&logo=css3\&logoColor=1572B6)
-![Sass](https://img.shields.io/badge/SCSS-20232A?style=for-the-badge\&logo=sass\&logoColor=CC6699)
+### Testing & Tools
 
-### Tools
-
-![Git](https://img.shields.io/badge/Git-20232A?style=for-the-badge\&logo=git\&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-20232A?style=for-the-badge\&logo=github\&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-20232A?style=for-the-badge\&logo=vite\&logoColor=646CFF)
-![WebStorm](https://img.shields.io/badge/WebStorm-20232A?style=for-the-badge\&logo=webstorm\&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-20232A?style=for-the-badge\&logo=figma\&logoColor=F24E1E)
-
-### Other
-
-`REST API` · `JSON` · `BEM` · `WordPress` · `Minista`
+`Vitest` · `Git` · `GitHub` · `Docker` · `Postman` · `Vite` · `npm`
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
-### 📊 Marketing Analytics Dashboard
+### 🎯 Hit Scope
 
-A web application for working with advertising campaign statistics, leads, and marketing performance metrics.
+Full-stack web application with a **Spring Boot backend, PostgreSQL database, and Vue 3 frontend**.
 
-**React · TypeScript · REST API**
+**Java · Spring Boot · Spring Data JPA · PostgreSQL · Vue 3 · TypeScript · REST API**
 
-* Advertising campaign analytics
-* KPI metrics
-* Filtering by period, region, and campaign
-* Period comparison
-* Lead management
-* API integration
-* Responsive interface
+* Layered backend architecture with controllers, services, and repositories
+* REST API and CRUD operations
+* PostgreSQL persistence using Spring Data JPA
+* User registration and authentication
+* Password hashing
+* Vue 3 frontend integrated with the backend
+* Interactive data visualization
 
-[View Repository](https://github.com/maminn174/Marketing-analytical-dashboard)
+[View Repository](https://github.com/maminn174/hit-scope)
+
+### 🚚 GPS Monitoring Website
+
+Commercial multi-page website for a company providing GPS/GLONASS fleet monitoring solutions.
+
+**JavaScript · SCSS · Minista · React Components · REST API**
+
+* Responsive multi-page interface
+* Equipment catalog and dynamic pages
+* Filtering and shopping cart
+* Forms and validation
+* Reusable UI components
+* Interactive elements and client-side logic
+
+[View Repository](https://github.com/maminn174/gps-monitoring-website)
 
 ---
 
 ## 📚 Currently Improving
 
-* Advanced React
-* TypeScript
-* Frontend architecture
-* Testing
-* Performance optimization
+* Java Core
+* Spring Boot and backend architecture
+* SQL and PostgreSQL
+* Testing backend applications
+* Full-stack application design
 
 ---
 
 ## 📫 Contact
 
-[![Telegram](https://img.shields.io/badge/Telegram-20232A?style=for-the-badge\&logo=telegram\&logoColor=26A5E4)](https://t.me/nikitatilt)
-[![Email](https://img.shields.io/badge/Email-20232A?style=for-the-badge\&logo=icloud\&logoColor=white)](mailto:nikita.mamin174@icloud.com)
+[Telegram](https://t.me/nikitatilt) · [Email](mailto:nikita.mamin174@icloud.com)
