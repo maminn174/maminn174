@@ -1,12 +1,12 @@
 # Hi, I'm Nikita 👋
 
-### FullStack Developer
+### Fullstack Developer | Java & React
 
 I build web applications using **Java, Spring Boot, React, Vue, and TypeScript**.
 
-I have commercial frontend development experience and work with REST APIs, reusable UI components, forms, application logic, and responsive interfaces.
+I have commercial frontend development experience, building responsive interfaces, reusable components, integrating REST APIs, and implementing client-side business logic.
 
-On the backend, I work with **Java, Spring Boot, Spring Data JPA, PostgreSQL, and REST API**, building client-server applications and developing my backend engineering skills.
+My current focus is **Java backend development** with Spring Boot, PostgreSQL, and Spring Security. I enjoy designing REST APIs, working with databases, implementing business logic, and building full-stack applications.
 
 ---
 
@@ -14,33 +14,54 @@ On the backend, I work with **Java, Spring Boot, Spring Data JPA, PostgreSQL, an
 
 ### Backend
 
-`Java` · `Spring Boot` · `Spring MVC` · `Spring Data JPA` · `Hibernate` · `PostgreSQL` · `SQL` · `REST API` · `Maven`
+`Java 21` · `Spring Boot` · `Spring MVC` · `Spring Security` · `Spring Data JPA` · `Hibernate` · `PostgreSQL` · `SQL` · `REST API` · `Flyway` · `Maven`
 
 ### Frontend
 
-`JavaScript` · `TypeScript` · `React` · `Vue 3` · `HTML5` · `CSS3` · `SCSS` · `BEM`
+`JavaScript` · `TypeScript` · `React` · `Vue 3` · `HTML5` · `CSS3` · `SCSS` · `BEM` · `Vite`
 
 ### Testing & Tools
 
-`Vitest` · `Git` · `GitHub` · `Docker` · `Postman` · `Vite` · `npm`
+`JUnit 5` · `Mockito` · `Vitest` · `Git` · `GitHub` · `Docker` · `Docker Compose` · `Postman` · `npm`
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🎯 Hit Scope
+### 🐾 PetLog — Pet Care Management API
+
+Backend application for managing pet profiles and tracking their daily activities, with shared access for multiple users.
+
+**Java 21 · Spring Boot · Spring Security · Spring Data JPA · PostgreSQL · Flyway · Docker · JUnit · Mockito**
+
+- REST API with layered architecture and domain-based package structure
+- User registration and session-based authentication
+- Role-based access control (`OWNER`, `MEMBER`, `VIEWER`)
+- Pet invitations and member management
+- Event history for feeding, walking, weight tracking, and notes
+- Pagination, data validation, and centralized exception handling
+- Soft deletion and PostgreSQL JSONB for event-specific data
+- Database versioning with Flyway migrations
+- Unit tests for business logic, validation, and access permissions
+- Local PostgreSQL environment using Docker Compose
+
+**Status:** Backend under active development. Frontend planned.
+
+[View Repository](https://github.com/maminn174/petlog)
+
+### 🎯 Hit Scope — Fullstack Application
 
 Full-stack web application with a **Spring Boot backend, PostgreSQL database, and Vue 3 frontend**.
 
 **Java · Spring Boot · Spring Data JPA · PostgreSQL · Vue 3 · TypeScript · REST API**
 
-* Layered backend architecture with controllers, services, and repositories
-* REST API and CRUD operations
-* PostgreSQL persistence using Spring Data JPA
-* User registration and authentication
-* Password hashing
-* Vue 3 frontend integrated with the backend
-* Interactive data visualization
+- Layered backend architecture with controllers, services, and repositories
+- REST API and CRUD operations
+- PostgreSQL persistence using Spring Data JPA
+- User registration and authentication
+- Password hashing
+- Vue 3 frontend integrated with the backend
+- Interactive data visualization
 
 [View Repository](https://github.com/maminn174/hit-scope)
 
@@ -50,12 +71,12 @@ Commercial multi-page website for a company providing GPS/GLONASS fleet monitori
 
 **JavaScript · SCSS · Minista · React Components · REST API**
 
-* Responsive multi-page interface
-* Equipment catalog and dynamic pages
-* Filtering and shopping cart
-* Forms and validation
-* Reusable UI components
-* Interactive elements and client-side logic
+- Responsive multi-page interface
+- Equipment catalog and dynamic pages
+- Filtering and shopping cart
+- Forms and validation
+- Reusable UI components
+- Interactive elements and client-side logic
 
 [View Repository](https://github.com/maminn174/gps-monitoring-website)
 
@@ -63,11 +84,12 @@ Commercial multi-page website for a company providing GPS/GLONASS fleet monitori
 
 ## 📚 Currently Improving
 
-* Java Core
-* Spring Boot and backend architecture
-* SQL and PostgreSQL
-* Testing backend applications
-* Full-stack application design
+- Java Core and concurrency
+- Spring Boot and backend architecture
+- SQL and database optimization
+- Unit and integration testing
+- Application security
+- Full-stack application design
 
 ---
 
